@@ -5,7 +5,7 @@ import pandas as pd
 
 # ----------- Fetch movie details from TMDB API ------------
 def fetch_movie_details(movie_id):
-    url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=20a69b5d630370cf25cc05f8da975d1b&language=en-US"
+    url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={your_API_kEY}b&language=en-US"
     response = requests.get(url)
     data = response.json()
 
