@@ -1,11 +1,11 @@
-🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System
 
 A Movie Recommendation System built with Streamlit that recommends similar movies based on content such as genres, overview, and cast. The system uses TF-IDF Vectorization and Cosine Similarity to find the most relevant matches.
 
 
 
 
-🚀 Features
+# 🚀 Features
 
 1.**Personalized Movie Recommendations**: Receive movie suggestions based on your selected movie using advanced content-based filtering techniques like **Vectorization** and **Cosine Similarity**.
 2.  **Comprehensive Movie Details**: View rich movie details, including:
@@ -19,7 +19,7 @@ A Movie Recommendation System built with Streamlit that recommends similar movie
 
 
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 
 1. Python
@@ -37,7 +37,7 @@ A Movie Recommendation System built with Streamlit that recommends similar movie
 
  
   
-  Screenshots
+  # Screenshots
 
   
 
@@ -48,7 +48,7 @@ A Movie Recommendation System built with Streamlit that recommends similar movie
    ![Screenshot 2025-04-20 205609](https://github.com/user-attachments/assets/7dc80a22-9a87-4c63-8514-99996f9e2f4d)
 
 
-🙌 Acknowledgements
+# 🙌 Acknowledgements
 
 
 TMDB API for movie data and images
